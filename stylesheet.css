@@ -1,0 +1,27 @@
+/* Apply styles to an HTML tag using a CSS selector */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f2f2f2;
+}
+
+/* Create a class, apply it to at least two elements, and style it */
+.my-custom-class {
+    color: #3498db;
+    font-weight: bold;
+}
+
+/* Create an id, apply it to an element, and style it */
+#special-id {
+    text-decoration: underline;
+}
+
+/* Change the color of <a> when hovering */
+a:hover {
+    color: #e74c3c;
+}
+
+/* Change box model properties */
+.my-box {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
